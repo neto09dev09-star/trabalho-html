@@ -1,9 +1,4 @@
-body{
-           background: color #252525;}
-        header {
-            padding: 32px;
-            border-bottom: 1px solid #333;
-            background-color: rgba(0, 0,0,0.1);}
+  @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
      *{
         margin:0;
         padding:0;
@@ -13,7 +8,7 @@ body{
         text-align :center; /*Alinhamento no meio do header */
      }
      header div a{
-        color: rgb(128, 108, 108);/* a cor do texto */
+        color: rgb(34, 17, 17);/* a cor do texto */
         font-size:20px; /* tamanho da fonte */
         line-height: 30px; /* espaçamento da linha do texto */
         margin: 0 16px; /* espaçamento entre os textos */
@@ -25,3 +20,5 @@ body{
          color: green;
          transition: color 700ms;
       }
+
+     
