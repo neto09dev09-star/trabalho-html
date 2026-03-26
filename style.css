@@ -8,7 +8,7 @@
         text-align :center; /*Alinhamento no meio do header */
      }
      header div a{
-        color: rgb(136, 53, 53);/* a cor do texto */
+        color: rgb(11, 82, 66);/* a cor do texto */
         font-size:20px; /* tamanho da fonte */
         line-height: 30px; /* espaçamento da linha do texto */
         margin: 0 16px; /* espaçamento entre os textos */
@@ -17,8 +17,39 @@
       }
       header div a:hover 
       {
-         color: rgb(100, 128, 100);
+         color: rgb(19, 45, 66);
          transition: color 700ms;
       }
 
+      #box{
+         text-align: center;
+         padding: 32px;
+
+      }
+
+      #box img{
+         border-radius: 100%;
+         border: 5px solid rgb(1, 13, 66);
+         margin-bottom: 32px;
+      }
+
+      #box h1{
+         font-size: 42px;
+         line-height: 52px;
+         font-weight: bold;
+      }
+      #box h2{
+         font-size: 24px;
+         line-height: 34px;
+         font-weight: normal;
+         margin-top: 8px;
+         opacity: 0.8;
+
+      }
+      #box p{
+         max-width: 500px;
+         margin: 32px auto;
+         font-size: 24 px;
+         line-height: 34px;
+      }
      
