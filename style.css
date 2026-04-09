@@ -3,12 +3,19 @@
         margin:0;
         padding:0;
         border: 0;
+     body{
+
+      background-color: rgba(127, 127, 233, 0.774);
+     }
      }
      header div {
         text-align :center; /*Alinhamento no meio do header */
+        border-bottom: 3px solid white;
+        background-color: rgb(255, 255, 255);
+        padding: 32px;
      }
      header div a{
-        color: rgb(56, 112, 202);/* a cor do texto */
+        color: rgb(15, 18, 24);/* a cor do texto */
         font-size:20px; /* tamanho da fonte */
         line-height: 30px; /* espaçamento da linha do texto */
         margin: 0 16px; /* espaçamento entre os textos */
@@ -17,7 +24,7 @@
       }
       header div a:hover 
       {
-         color: rgb(96, 160, 212);
+         color: rgb(37, 47, 54);
          transition: color 700ms;
       }
 
@@ -65,7 +72,7 @@
       }
       
       .links a {
-      color: rgb(20, 76, 199);
+      color: rgb(19, 52, 124);
       font-size: 25px;
       line-height: 30px;
       margin: 0 16px;
