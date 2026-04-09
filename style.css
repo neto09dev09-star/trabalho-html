@@ -8,7 +8,7 @@
         text-align :center; /*Alinhamento no meio do header */
      }
      header div a{
-        color: rgb(82, 127, 199);/* a cor do texto */
+        color: rgb(56, 112, 202);/* a cor do texto */
         font-size:20px; /* tamanho da fonte */
         line-height: 30px; /* espaçamento da linha do texto */
         margin: 0 16px; /* espaçamento entre os textos */
@@ -17,7 +17,7 @@
       }
       header div a:hover 
       {
-         color: rgb(19, 45, 66);
+         color: rgb(96, 160, 212);
          transition: color 700ms;
       }
 
@@ -29,7 +29,7 @@
 
       #box img{
          border-radius: 100%;
-         border: 5px solid rgb(66, 76, 123);
+         border: 5px solid rgb(47, 65, 146);
          margin-bottom: 32px;
       }
 
@@ -65,7 +65,7 @@
       }
       
       .links a {
-      color: rgb(2, 10, 27);
+      color: rgb(20, 76, 199);
       font-size: 25px;
       line-height: 30px;
       margin: 0 16px;
