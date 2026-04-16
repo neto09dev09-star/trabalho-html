@@ -5,7 +5,7 @@
         border: 0;
      body{
 
-      background-color: rgba(127, 127, 233, 0.774);
+      background-color: rgba(166, 193, 206, 0.774);
      }
      }
      header div {
@@ -15,7 +15,7 @@
         padding: 32px;
      }
      header div a{
-        color: rgb(15, 18, 24);/* a cor do texto */
+        color: rgb(102, 120, 156);/* a cor do texto */
         font-size:20px; /* tamanho da fonte */
         line-height: 30px; /* espaçamento da linha do texto */
         margin: 0 16px; /* espaçamento entre os textos */
@@ -24,7 +24,7 @@
       }
       header div a:hover 
       {
-         color: rgb(37, 47, 54);
+         color: rgb(111, 163, 201);
          transition: color 700ms;
       }
 
@@ -36,7 +36,7 @@
 
       #box img{
          border-radius: 100%;
-         border: 5px solid rgb(47, 65, 146);
+         border: 5px solid rgb(38, 58, 146);
          margin-bottom: 32px;
       }
 
@@ -72,7 +72,7 @@
       }
       
       .links a {
-      color: rgb(19, 52, 124);
+      color: rgb(15, 24, 44);
       font-size: 25px;
       line-height: 30px;
       margin: 0 16px;
